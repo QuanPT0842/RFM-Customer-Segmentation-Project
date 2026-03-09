@@ -1,4 +1,4 @@
-Tên dự án: Phân khúc khách hàng theo mô hình RFM.
+**Tên dự án:** Phân khúc khách hàng theo mô hình RFM.
 
 Công cụ: SQL, Python, Power BI.
 
