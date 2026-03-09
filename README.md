@@ -1,1 +1,3 @@
-https://www.notion.so/Ph-n-t-ch-ph-n-kh-c-kh-ch-h-ng-b-ng-m-h-nh-RFM-a0a154ede4d045d4ba6a481159d7733c?source=copy_link
+Tên dự án: Phân khúc khách hàng theo mô hình RFM.
+Công cụ: SQL, Python, Power BI.
+Mục tiêu: Tìm ra các nhóm khách hàng cần ưu tiên để tối ưu doanh thu.
