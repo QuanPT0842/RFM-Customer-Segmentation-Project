@@ -1,0 +1,794 @@
+Customer_ID,Customer_Name,Recency_Value,Frequency_Value,Monetary_Value,Recency_Score,Frequency_Score,Monetary_Score,RFM_Overrall,Segment
+TS-21085,Thais Sissman,424,2,4.83,1,1,1,111,Lost customers
+LD-16855,Lela Donovan,619,1,5.3,1,1,1,111,Lost customers
+CJ-11875,Carl Jackson,432,1,16.52,1,1,1,111,Lost customers
+MG-18205,Mitch Gastineau,331,2,16.74,1,1,1,111,Lost customers
+RS-19870,Roy Skaria,86,3,22.33,5,1,1,511,New Customers
+SG-20890,Susan Gilcrest,293,5,47.95,1,1,1,111,Lost customers
+RE-19405,Ricardo Emerson,1164,1,48.36,1,1,1,111,Lost customers
+LB-16735,Larry Blacks,115,3,50.19,4,1,1,411,New Customers
+AS-10135,Adrian Shami,108,3,58.82,4,1,1,411,New Customers
+JC-15340,Jasper Cacioppo,181,4,71.26,2,1,1,211,Hibernating customers
+FW-14395,Fred Wasserman,429,3,79.75,1,1,1,111,Lost customers
+AR-10570,Anemone Ratner,601,2,88.15,1,1,1,111,Lost customers
+KS-16300,Karen Seio,362,4,88.47,1,1,1,111,Lost customers
+RM-19750,Roland Murray,366,2,98.35,1,1,1,111,Lost customers
+CC-12550,Clay Cheatham,94,4,113.83,4,1,1,411,New Customers
+EL-13735,Ed Ludwig,144,2,124.28,3,1,1,311,New Customers
+BO-11425,Bobby Odegard,142,2,130.83,3,1,1,311,New Customers
+PB-19210,Phillip Breyer,755,2,132.74,1,1,1,111,Lost customers
+GH-14665,Greg Hansen,69,3,146.94,5,1,1,511,New Customers
+MO-17950,Michael Oakman,247,4,154.29,2,1,1,211,Hibernating customers
+DA-13450,Dianna Arnett,419,8,156.76,1,2,1,121,Lost customers
+PT-19090,Pete Takahito,138,7,160.57,3,1,1,311,New Customers
+AO-10810,Anthony O'Donnell,568,1,161.28,1,1,1,111,Lost customers
+ML-18265,Muhammed Lee,167,3,162.23,3,1,1,311,New Customers
+AG-10765,Anthony Garverick,144,5,170.58,3,1,1,311,New Customers
+JJ-15760,Joel Jenkins,820,3,195,1,1,1,111,Lost customers
+AG-10390,Allen Goldenen,181,8,200.94,2,2,1,221,About To Sleep
+HH-15010,Hilary Holden,139,6,218.67,3,1,1,311,New Customers
+RB-19645,Robert Barroso,715,7,221.08,1,1,1,111,Lost customers
+GT-14755,Guy Thornton,101,7,226.44,4,2,1,421,New Customers
+EM-14065,Erin Mull,114,6,228.99,4,1,1,411,New Customers
+GP-14740,Guy Phonely,832,5,236.53,1,1,1,111,Lost customers
+PL-18925,Paul Lucas,82,8,239.48,5,2,1,521,Promising
+SM-20005,Sally Matthias,488,6,244.49,1,1,1,111,Lost customers
+HD-14785,Harold Dahlen,836,7,251.36,1,1,1,111,Lost customers
+AR-10510,Andrew Roberts,81,7,264.86,5,2,1,521,Promising
+BN-11470,Brad Norvell,91,6,265.3,5,1,1,511,New Customers
+DD-13570,Dorothy Dickinson,108,9,269.54,4,2,1,421,New Customers
+BF-11080,Bart Folk,92,6,272.95,5,1,1,511,New Customers
+NB-18580,Nicole Brennan,1232,2,273.87,1,1,1,111,Lost customers
+SC-20800,Stuart Calhoun,97,5,279.26,4,1,1,411,New Customers
+SC-20845,Sung Chung,198,4,280.63,2,1,1,211,Hibernating customers
+LH-16750,Larry Hughes,218,3,287.43,2,1,1,211,Hibernating customers
+CM-12445,Chuck Magee,503,9,287.99,1,2,1,121,Lost customers
+JM-15580,Jill Matthias,67,7,303.95,5,2,1,521,Promising
+JH-15430,Jennifer Halladay,72,7,309.28,5,2,1,521,Promising
+LH-17020,Lisa Hazard,306,6,318.24,1,1,1,111,Lost customers
+BD-11560,Brendan Dodson,345,4,320.54,1,1,1,111,Lost customers
+LT-16765,Larry Tron,93,3,329.88,5,1,1,511,New Customers
+DW-13540,Don Weiss,165,9,344.08,3,2,1,321,About To Sleep
+HJ-14875,Heather Jas,193,6,358.1,2,1,1,211,Hibernating customers
+EM-14200,Evan Minnotte,225,4,366.82,2,1,1,211,Hibernating customers
+AG-10300,Aleksandra Gannaway,185,5,367.55,2,1,1,211,Hibernating customers
+LS-17230,Lycoris Saunders,844,6,368.88,1,1,1,111,Lost customers
+MS-17830,Melanie Seite,519,5,370.35,1,1,1,111,Lost customers
+NF-18475,Neil Franzosisch,592,4,377.16,1,1,1,111,Lost customers
+VM-21835,Vivian Mathis,184,8,380.69,2,2,1,221,About To Sleep
+JK-15325,Jason Klamczynski,354,4,383.81,1,1,1,111,Lost customers
+JD-16015,Joy Daniels,179,11,385.43,2,3,1,231,About To Sleep
+BW-11065,Barry Weirich,279,3,385.52,2,1,1,211,Hibernating customers
+MH-17440,Mark Haberlin,443,9,400.02,1,2,1,121,Lost customers
+BT-11485,Brad Thomas,726,3,415.2,1,1,1,111,Lost customers
+SS-20590,Sonia Sunley,499,9,418.49,1,2,1,121,Lost customers
+VG-21805,Vivek Grady,353,6,427.37,1,1,1,111,Lost customers
+ST-20530,Shui Tom,192,12,433.34,2,3,1,231,About To Sleep
+TT-21265,Tim Taslimi,473,3,439.5,1,1,1,111,Lost customers
+KW-16570,Kelly Williams,838,5,449.1,1,1,1,111,Lost customers
+KM-16660,Khloe Miller,82,9,453.54,5,2,1,521,Promising
+EC-14050,Erin Creighton,120,7,461.91,3,1,1,311,New Customers
+JS-15940,Joni Sundaresam,530,8,469.17,1,2,1,121,Lost customers
+MS-17530,MaryBeth Skach,501,7,475.66,1,1,1,111,Lost customers
+CR-12625,Corey Roper,537,4,475.9,1,1,1,111,Lost customers
+AY-10555,Andy Yotov,81,10,497.01,5,2,1,521,Promising
+RB-19570,Rob Beeghly,92,9,528.55,5,2,1,521,Promising
+JH-15820,John Huston,241,8,528.91,2,2,1,221,About To Sleep
+CS-11860,Cari Schnelling,229,7,537.63,2,1,1,211,Hibernating customers
+CS-12460,Chuck Sachs,94,6,550.64,4,1,1,411,New Customers
+CM-11935,Carlos Meador,775,4,565.39,1,1,1,111,Lost customers
+NK-18490,Neil Knudson,137,11,572.05,3,3,1,331,About To Sleep
+BD-11635,Brian Derr,76,5,582.65,5,1,1,511,New Customers
+AS-10240,Alan Shonely,259,13,584.61,2,3,1,231,About To Sleep
+DL-13330,Denise Leinenbach,124,8,585.02,3,2,1,321,About To Sleep
+MZ-17335,Maria Zettner,97,6,593.61,4,1,1,411,New Customers
+BF-10975,Barbara Fisher,158,13,599.8,3,3,1,331,About To Sleep
+BT-11440,Bobby Trafton,627,7,603.88,1,1,1,111,Lost customers
+SS-20515,Shirley Schmidt,558,6,613.4,1,1,1,111,Lost customers
+RR-19315,Ralph Ritter,86,4,615.93,5,1,1,511,New Customers
+AJ-10960,Astrea Jones,141,5,629.25,3,1,1,311,New Customers
+MR-17545,Mathew Reese,192,6,639.18,2,1,1,211,Hibernating customers
+CD-11980,Carol Darley,121,6,639.77,3,1,1,311,New Customers
+JB-16000,Joy Bell-,110,7,644.12,4,1,1,411,New Customers
+LO-17170,Lori Olson,69,9,644.35,5,2,1,521,Promising
+AW-10840,Anthony Witt,87,8,649.38,5,2,1,521,Promising
+AC-10660,Anna Chung,349,6,657.32,1,1,1,111,Lost customers
+BD-11770,Bryan Davis,394,10,658.47,1,3,1,131,Lost customers
+BK-11260,Berenike Kampe,144,16,659.14,3,4,1,341,Potential Loyalist
+AG-10330,Alex Grayson,75,9,660.97,5,2,1,521,Promising
+TR-21325,Toby Ritter,260,7,675.94,2,1,1,211,Hibernating customers
+EH-13945,Eric Hoffmann,284,17,684.17,2,4,1,241,About To Sleep
+PB-19105,Peter Buhler,124,5,688.32,3,1,1,311,New Customers
+JD-16060,Julia Dunbar,367,6,695.44,1,1,1,111,Lost customers
+JJ-15445,Jennifer Jackson,550,6,709.18,1,1,1,111,Lost customers
+PA-19060,Pete Armstrong,170,7,729.41,2,1,1,211,Hibernating customers
+PH-18790,Patricia Hirasaki,137,2,729.65,3,1,1,311,New Customers
+HM-14980,Henry MacAllister,314,7,736.28,1,1,1,111,Lost customers
+AH-10585,Angele Hood,88,5,738.5,5,1,1,511,New Customers
+PB-18805,Patrick Bzostek,92,10,740.36,5,2,1,521,Promising
+RH-19555,Ritsa Hightower,586,3,740.38,1,1,1,111,Lost customers
+ML-18040,Michelle Lonsdale,146,4,742.08,3,1,1,311,New Customers
+TC-21535,Tracy Collins,71,10,742.56,5,2,1,521,Promising
+BB-10990,Barry Blumstein,172,8,744.34,2,2,1,221,About To Sleep
+IG-15085,Ivan Gibson,138,7,744.57,3,1,1,311,New Customers
+Dl-13600,Dorris liebe,186,6,755.6,2,1,1,211,Hibernating customers
+LP-17080,Liz Pelletier,107,9,756.61,4,2,1,421,New Customers
+SW-20755,Steven Ward,601,8,758.7,1,2,1,121,Lost customers
+SF-20065,Sandra Flanagan,126,9,763.55,3,2,1,321,About To Sleep
+MM-18280,Muhammed MacIntyre,152,12,775.41,3,3,1,331,About To Sleep
+MG-17890,Michael Granlund,166,13,776.38,3,3,1,331,About To Sleep
+HG-14845,Harry Greene,121,10,785.63,3,2,1,321,About To Sleep
+BF-11275,Beth Fritzler,124,4,791.99,3,1,1,311,New Customers
+MC-17635,Matthew Clasen,256,8,795.15,2,2,1,221,About To Sleep
+DK-13150,David Kendrick,77,5,797.83,5,1,1,511,New Customers
+BM-11575,Brendan Murry,167,10,808.16,3,2,1,321,About To Sleep
+AM-10360,Alice McCarthy,95,12,814.01,4,3,1,431,Potential Loyalist
+TB-21190,Thomas Brumley,116,4,816.17,4,1,1,411,New Customers
+EH-13990,Erica Hackney,472,8,825.95,1,2,1,121,Lost customers
+AS-10630,Ann Steele,159,12,833.4,3,3,1,331,About To Sleep
+TB-21355,Todd Boyes,213,13,834.33,2,3,1,231,About To Sleep
+CS-12175,Charles Sheldon,299,8,844.46,1,2,1,121,Lost customers
+VG-21790,Vivek Gonzalez,221,8,846.01,2,2,1,221,About To Sleep
+VF-21715,Vicky Freymann,80,11,847.94,5,3,1,531,Potential Loyalist
+MS-17980,Michael Stewart,93,11,855.12,4,3,1,431,Potential Loyalist
+JC-16105,Julie Creighton,124,9,858.58,3,2,1,321,About To Sleep
+AF-10885,Art Foster,482,7,861.56,1,1,1,111,Lost customers
+JR-15700,Jocasta Rupert,135,1,863.88,3,1,1,311,New Customers
+JM-15655,Jim Mitchum,75,12,864.95,5,3,1,531,Potential Loyalist
+RE-19450,Richard Eichhorn,369,9,876.7,1,2,1,121,Lost customers
+SK-19990,Sally Knutson,75,5,883.41,5,1,1,511,New Customers
+HE-14800,Harold Engle,79,11,883.53,5,3,1,531,Potential Loyalist
+CS-12130,Chad Sievert,556,7,884.64,1,1,1,111,Lost customers
+RC-19960,Ryan Crowe,177,11,885.75,2,3,1,231,About To Sleep
+AB-10015,Aaron Bergman,482,6,886.16,1,1,1,111,Lost customers
+HZ-14950,Henia Zydlo,102,6,886.52,4,1,1,411,New Customers
+JB-15925,Joni Blumstein,804,8,900.55,1,2,1,121,Lost customers
+SC-20575,Sonia Cooley,159,7,902.73,3,1,1,311,New Customers
+CG-12040,Catherine Glotzbach,116,9,904.47,4,2,1,421,New Customers
+KB-16405,Katrina Bavinger,184,9,908.82,2,2,1,221,About To Sleep
+AB-10255,Alejandro Ballentine,233,14,914.53,2,4,1,241,About To Sleep
+MO-17500,Mary O'Rourke,139,5,922.49,3,1,1,311,New Customers
+EH-14185,Evan Henry,172,8,923.88,2,2,1,221,About To Sleep
+AC-10420,Alyssa Crouse,299,5,925.8,1,1,1,111,Lost customers
+EM-13960,Eric Murdock,218,6,933.7,2,1,1,211,Hibernating customers
+MF-17665,Maureen Fritzler,488,8,937.04,1,2,1,121,Lost customers
+EB-13930,Eric Barreto,228,7,944.6,2,1,1,211,Hibernating customers
+RF-19840,Roy Franzosisch,73,11,945.22,5,3,1,531,Potential Loyalist
+BS-11800,Bryan Spruell,332,8,949.43,1,2,1,121,Lost customers
+RP-19270,Rachel Payne,563,12,954.65,1,3,1,131,Lost customers
+JF-15295,Jason Fortune-,292,14,955.12,1,4,1,141,Lost customers
+JH-15910,Jonathan Howell,108,9,959.48,4,2,1,421,New Customers
+SS-20875,Sung Shariari,187,15,964.64,2,4,2,242,At Risk
+RC-19825,Roy Collins,436,10,966.41,1,3,2,132,Hibernating customers
+AB-10150,Aimee Bixby,108,12,966.71,4,3,2,432,Potential Loyalist
+RD-19930,Russell D'Ascenzo,109,10,970.94,4,2,2,422,New Customers
+TS-21340,Toby Swindell,293,12,974.78,1,3,2,132,Hibernating customers
+BP-11050,Barry Pond,150,7,983.42,3,1,2,312,About To Sleep
+KB-16600,Ken Brennan,68,9,983.92,5,2,2,522,Promising
+VP-21730,Victor Preis,97,5,993.9,4,1,2,412,New Customers
+BG-11740,Bruce Geld,124,7,1006.36,3,2,2,322,Hibernating customers
+LS-17245,Lynn Smith,101,12,1008.14,4,3,2,432,Potential Loyalist
+RB-19330,Randy Bradley,135,6,1008.2,3,1,2,312,About To Sleep
+LS-17200,Luke Schmidt,163,14,1010.26,3,4,2,342,Potential Loyalist
+SW-20350,Sean Wendt,229,6,1019.04,2,1,2,212,Hibernating customers
+TH-21235,Tiffany House,184,13,1022.2,2,3,2,232,Hibernating customers
+MK-18160,Mike Kennedy,307,11,1031.6,1,3,2,132,Hibernating customers
+TC-21145,Theresa Coyne,173,4,1038.26,2,1,2,212,Hibernating customers
+EM-14095,Eudokia Martin,180,10,1041.04,2,2,2,222,Hibernating customers
+SM-20905,Susan MacKendrick,673,6,1043.04,1,1,2,112,Lost customers
+DH-13675,Duane Huffman,843,11,1043.1,1,3,2,132,Hibernating customers
+DP-13000,Darren Powers,193,17,1050.64,2,4,2,242,At Risk
+AR-10345,Alex Russell,178,5,1055.69,2,1,2,212,Hibernating customers
+VS-21820,Vivek Sundaresam,288,8,1055.98,2,2,2,222,Hibernating customers
+AA-10375,Allen Armold,86,15,1056.39,5,4,2,542,Potential Loyalist
+PO-19195,Phillina Ober,153,10,1056.86,3,2,2,322,Hibernating customers
+JC-15385,Jenna Caffey,242,4,1058.11,2,1,2,212,Hibernating customers
+DP-13165,David Philippe,879,4,1058.62,1,1,2,112,Lost customers
+PC-19000,Pauline Chand,949,3,1061.49,1,1,2,112,Lost customers
+CS-12490,Cindy Schnelling,491,9,1077.23,1,2,2,122,Hibernating customers
+DW-13195,David Wiener,136,9,1080.75,3,2,2,322,Hibernating customers
+DB-13360,Dennis Bolton,331,6,1081.47,1,1,2,112,Lost customers
+JF-15490,Jeremy Farry,188,15,1082.92,2,4,2,242,At Risk
+SW-20245,Scot Wooten,148,10,1085.08,3,2,2,322,Hibernating customers
+JO-15550,Jesus Ocampo,282,11,1090.84,2,3,2,232,Hibernating customers
+TM-21490,Tony Molinari,197,4,1094.68,2,1,2,212,Hibernating customers
+AB-10165,Alan Barnes,92,14,1113.84,5,4,2,542,Potential Loyalist
+DV-13045,Darrin Van Huff,86,9,1119.48,5,2,2,522,Promising
+JS-15685,Jim Sink,109,11,1131.06,4,3,2,432,Potential Loyalist
+CW-11905,Carl Weiss,89,11,1136.59,5,3,2,532,Potential Loyalist
+RD-19810,Ross DeVincentis,81,16,1137.62,5,4,2,542,Potential Loyalist
+KC-16675,Kimberly Carter,124,7,1146.05,3,1,2,312,About To Sleep
+CG-12520,Claire Gute,405,5,1148.78,1,1,2,112,Lost customers
+DB-13660,Duane Benoit,79,10,1155.2,5,2,2,522,Promising
+JR-15670,Jim Radford,660,3,1156.66,1,1,2,112,Lost customers
+AT-10435,Alyssa Tate,88,9,1171.81,5,2,2,522,Promising
+DC-13285,Debra Catini,90,7,1174.62,5,2,2,522,Promising
+BP-11230,Benjamin Patterson,106,6,1181.49,4,1,2,412,New Customers
+EB-14170,Evan Bailliet,149,7,1186.33,3,1,2,312,About To Sleep
+DW-13585,Dorothy Wardle,309,10,1204.85,1,2,2,122,Hibernating customers
+MD-17860,Michael Dominguez,103,8,1204.91,4,2,2,422,New Customers
+CD-12280,Christina DeMoss,109,13,1205.58,4,3,2,432,Potential Loyalist
+JL-15130,Jack Lebron,75,12,1214.96,5,3,2,532,Potential Loyalist
+EH-14005,Erica Hernandez,69,11,1219.53,5,3,2,532,Potential Loyalist
+PJ-18835,Patrick Jones,106,13,1220.09,4,3,2,432,Potential Loyalist
+NP-18685,Nora Pelletier,473,7,1228.7,1,1,2,112,Lost customers
+MG-17875,Michael Grace,183,7,1242.83,2,1,2,212,Hibernating customers
+JW-15955,Joni Wasserman,72,11,1244.09,5,3,2,532,Potential Loyalist
+TC-21475,Tony Chapman,220,11,1244.98,2,3,2,232,Hibernating customers
+ER-13855,Elpida Rittenbach,488,5,1245.79,1,1,2,112,Lost customers
+MH-17620,Matt Hagelstein,222,6,1252.8,2,1,2,212,Hibernating customers
+SC-20680,Steve Carroll,193,8,1254.64,2,2,2,222,Hibernating customers
+GM-14500,Gene McClure,173,13,1255.68,2,3,2,232,Hibernating customers
+ME-18010,Michelle Ellison,159,6,1256.94,3,1,2,312,About To Sleep
+LW-17125,Liz Willingham,272,5,1259.04,2,1,2,212,Hibernating customers
+CL-11890,Carl Ludwig,173,7,1262.01,2,1,2,212,Hibernating customers
+DO-13645,Doug O'Connell,93,11,1267.32,5,3,2,532,Potential Loyalist
+SV-20815,Stuart Van,143,6,1271.09,3,1,2,312,About To Sleep
+PS-18970,Paul Stevenson,136,13,1278.64,3,3,2,332,Hibernating customers
+CS-11845,Cari Sayre,158,8,1278.95,3,2,2,322,Hibernating customers
+GR-14560,Georgia Rosenberg,1202,5,1284.38,1,1,2,112,Lost customers
+HR-14770,Hallie Redmond,80,13,1299.29,5,3,2,532,Potential Loyalist
+DO-13435,Denny Ordway,200,13,1300.03,2,3,2,232,Hibernating customers
+Co-12640,Corey-Lock,616,8,1300.08,1,2,2,122,Hibernating customers
+EK-13795,Eileen Kiefer,111,4,1303.48,4,1,2,412,New Customers
+MC-17575,Matt Collins,94,11,1303.89,4,3,2,432,Potential Loyalist
+SP-20545,Sibella Parks,394,10,1306.09,1,3,2,132,Hibernating customers
+MM-17260,Magdelene Morse,235,6,1314.02,2,1,2,212,Hibernating customers
+SJ-20500,Shirley Jackson,320,7,1318.78,1,1,2,112,Lost customers
+MT-18070,Michelle Tran,270,11,1319.45,2,3,2,232,Hibernating customers
+DM-12955,Dario Medina,181,9,1322.03,2,2,2,222,Hibernating customers
+SS-20140,Saphhira Shifley,82,21,1324.03,5,5,2,552,Potential Loyalist
+BF-11005,Barry Franz,106,10,1333.88,4,2,2,422,New Customers
+BM-11785,Bryan Mills,285,14,1338.84,2,4,2,242,At Risk
+SJ-20215,Sarah Jordon,96,10,1341.04,4,2,2,422,New Customers
+MG-17695,Maureen Gnade,622,7,1342.28,1,1,2,112,Lost customers
+LM-17065,Liz MacKendrick,458,7,1346.77,1,1,2,112,Lost customers
+SB-20170,Sarah Bern,268,7,1348.02,2,1,2,212,Hibernating customers
+GH-14485,Gene Hale,454,3,1361.24,1,1,2,112,Lost customers
+DM-13525,Don Miller,548,10,1376.79,1,3,2,132,Hibernating customers
+FG-14260,Frank Gastineau,101,11,1383.14,4,3,2,432,Potential Loyalist
+TB-21595,Troy Blackwell,352,7,1387.56,1,1,2,112,Lost customers
+JE-15475,Jeremy Ellison,260,13,1388.68,2,3,2,232,Hibernating customers
+NG-18430,Nathan Gelder,115,9,1395.94,4,2,2,422,New Customers
+CR-12820,Cyra Reiten,152,7,1397.87,3,1,2,312,About To Sleep
+GA-14725,Guy Armstrong,72,22,1398.38,5,5,2,552,Potential Loyalist
+PM-18940,Paul MacIntyre,453,4,1405.4,1,1,2,112,Lost customers
+JS-15595,Jill Stevenson,186,8,1417.65,2,2,2,222,Hibernating customers
+NL-18310,Nancy Lomonaco,125,10,1418.09,3,2,2,322,Hibernating customers
+RD-19720,Roger Demir,88,20,1419.74,5,5,2,552,Potential Loyalist
+CA-12310,Christine Abelman,80,11,1421.95,5,3,2,532,Potential Loyalist
+TT-21220,Thomas Thornton,250,15,1427.04,2,4,2,242,At Risk
+MB-18085,Mick Brown,111,10,1428.23,4,2,2,422,New Customers
+JW-16075,Julia West,528,7,1428.73,1,1,2,112,Lost customers
+TD-20995,Tamara Dahlen,104,16,1434.55,4,4,2,442,Potential Loyalist
+PK-18910,Paul Knutson,550,3,1441.15,1,1,2,112,Lost customers
+RM-19375,Raymond Messe,412,9,1453.47,1,2,2,122,Hibernating customers
+AG-10525,Andy Gerbode,912,9,1455.04,1,2,2,122,Hibernating customers
+PB-19150,Philip Brown,164,11,1456.95,3,3,2,332,Hibernating customers
+DL-13315,Delfina Latchford,89,17,1458.26,5,4,2,542,Potential Loyalist
+BN-11515,Bradley Nguyen,76,17,1459.34,5,4,2,542,Potential Loyalist
+RK-19300,Ralph Kennedy,186,8,1460.19,2,2,2,222,Hibernating customers
+PN-18775,Parhena Norris,97,13,1467.15,4,3,2,432,Potential Loyalist
+TB-21055,Ted Butterfield,186,18,1467.88,2,5,2,252,At Risk
+LE-16810,Laurel Elliston,88,9,1469.45,5,2,2,522,Promising
+CM-12190,Charlotte Melton,75,7,1475.14,5,2,2,522,Promising
+ZD-21925,Zuschuss Donatelli,269,9,1493.94,2,2,2,222,Hibernating customers
+DL-12865,Dan Lawera,167,14,1503.11,3,4,2,342,Potential Loyalist
+JG-15805,John Grady,290,9,1507.02,2,2,2,222,Hibernating customers
+AB-10600,Ann Blume,117,8,1515.86,4,2,2,422,New Customers
+KA-16525,Kelly Andreada,103,11,1519.51,4,3,2,432,Potential Loyalist
+BV-11245,Benjamin Venier,401,14,1523.27,1,4,2,142,At Risk
+BD-11725,Bruce Degenhardt,160,10,1526.5,3,2,2,322,Hibernating customers
+CH-12070,Cathy Hwang,758,4,1537.24,1,1,2,112,Lost customers
+BD-11620,Brian DeCherney,136,8,1538.11,3,2,2,322,Hibernating customers
+MB-17305,Maria Bertelson,115,19,1548.7,4,5,2,452,Potential Loyalist
+MV-17485,Mark Van Huff,94,15,1560.05,4,4,2,442,Potential Loyalist
+ON-18715,Odella Nelson,477,15,1567.52,1,4,2,142,At Risk
+GB-14530,George Bell,129,20,1568.44,3,5,2,352,Potential Loyalist
+KB-16315,Karl Braun,363,22,1569.46,1,5,2,152,At Risk
+JL-15175,James Lanier,73,7,1571.52,5,2,2,522,Promising
+MC-18130,Mike Caudle,436,11,1582,1,3,2,132,Hibernating customers
+CK-12760,Cyma Kinney,149,14,1582.11,3,4,2,342,Potential Loyalist
+BF-11215,Benjamin Farhat,132,8,1585.16,3,2,2,322,Hibernating customers
+AH-10195,Alan Haines,122,8,1587.45,3,2,2,322,Hibernating customers
+CR-12730,Craig Reiter,145,6,1600.55,3,1,2,312,About To Sleep
+TB-21250,Tim Brockman,416,19,1602.38,1,5,2,152,At Risk
+MS-17710,Maurice Satty,480,15,1613.4,1,4,2,142,At Risk
+AZ-10750,Annie Zypern,227,12,1622.02,2,3,2,232,Hibernating customers
+AP-10720,Anne Pryor,108,19,1638.55,4,5,2,452,Potential Loyalist
+EB-13975,Erica Bern,67,6,1643.26,5,1,2,512,New Customers
+CC-12475,Cindy Chapman,106,13,1659.44,4,3,2,432,Potential Loyalist
+CM-12115,Chad McGuire,75,7,1661.61,5,2,2,522,Promising
+JP-15460,Jennifer Patt,104,15,1669.14,4,4,2,442,Potential Loyalist
+CM-11815,Candace McMahon,198,10,1673.89,2,2,2,222,Hibernating customers
+CA-12055,Cathy Armstrong,468,10,1679.72,1,3,2,132,Hibernating customers
+KE-16420,Katrina Edelman,93,15,1686.73,4,4,2,442,Potential Loyalist
+RA-19945,Ryan Akin,128,9,1686.92,3,2,2,322,Hibernating customers
+MO-17800,Meg O'Connel,171,11,1687.03,2,3,2,232,Hibernating customers
+DK-12985,Darren Koutras,74,8,1687.04,5,2,2,522,Promising
+BP-11155,Becky Pak,156,11,1697.86,3,3,2,332,Hibernating customers
+TZ-21580,Tracy Zic,102,9,1707.29,4,2,2,422,New Customers
+JP-16135,Julie Prescott,169,13,1707.71,3,3,2,332,Hibernating customers
+DB-13405,Denny Blanton,254,14,1711.69,2,4,2,242,At Risk
+BE-11455,Brad Eason,321,13,1727.65,1,3,2,132,Hibernating customers
+JM-15535,Jessica Myrick,169,10,1733.44,3,2,2,322,Hibernating customers
+MV-18190,Mike Vittorini,86,11,1734.57,5,3,2,532,Potential Loyalist
+AH-10120,Adrian Hane,127,16,1735.51,3,4,2,342,Potential Loyalist
+VT-21700,Valerie Takahito,1067,9,1736.6,1,2,2,122,Hibernating customers
+BW-11200,Ben Wallace,270,10,1738.41,2,2,2,222,Hibernating customers
+LH-17155,Logan Haushalter,452,19,1739.69,1,5,2,152,At Risk
+AH-10030,Aaron Hawkins,79,11,1744.7,5,3,3,533,Potential Loyalist
+MF-18250,Monica Federle,74,12,1758.3,5,3,3,533,Potential Loyalist
+DS-13030,Darrin Sayre,160,19,1762.21,3,5,3,353,Potential Loyalist
+CC-12100,Chad Cunningham,524,13,1770.94,1,3,3,133,At Risk
+AA-10480,Andrew Allen,326,12,1790.51,1,3,3,133,At Risk
+JB-15400,Jennifer Braxton,74,16,1791.61,5,4,3,543,Loyal
+JM-15265,Janet Molinari,104,13,1804.15,4,3,3,433,Potential Loyalist
+NC-18625,Noah Childs,271,9,1821.74,2,2,3,223,Hibernating customers
+PJ-19015,Pauline Johnson,201,10,1824.23,2,2,3,223,Hibernating customers
+EG-13900,Emily Grady,89,9,1832.02,5,2,3,523,Promising
+PC-18745,Pamela Coakley,69,5,1832.06,5,1,3,513,Promising
+AJ-10945,Ashley Jarboe,152,10,1839.24,3,2,3,323,Potential Loyalist
+PR-18880,Patrick Ryan,103,12,1840.18,4,3,3,433,Potential Loyalist
+SN-20560,Skye Norling,178,15,1860.42,2,4,3,243,At Risk
+CD-12790,Cynthia Delaney,466,15,1860.73,1,4,3,143,At Risk
+NG-18355,Nat Gilpin,115,16,1869.58,4,4,3,443,Need Attention
+SP-20650,Stephanie Phelps,453,15,1872.44,1,4,3,143,At Risk
+BG-11695,Brooke Gillingham,103,8,1874.17,4,2,3,423,Potential Loyalist
+SC-20440,Shaun Chance,103,10,1875,4,2,3,423,Potential Loyalist
+LR-17035,Lisa Ryan,199,12,1879.31,2,3,3,233,Hibernating customers
+SG-20470,Sheri Gordon,250,14,1884.8,2,4,3,243,At Risk
+GD-14590,Giulietta Dortch,72,6,1888.07,5,1,3,513,Promising
+KD-16345,Katherine Ducich,108,10,1888.96,4,2,3,423,Potential Loyalist
+SV-20935,Susan Vittorini,69,13,1903.49,5,4,3,543,Loyal
+ME-17725,Max Engle,95,13,1908.45,4,3,3,433,Potential Loyalist
+JF-15355,Jay Fein,172,16,1911.84,2,4,3,243,At Risk
+JO-15280,Jas O'Carroll,159,11,1934.27,3,3,3,333,Potential Loyalist
+TP-21565,Tracy Poddar,417,10,1936.64,1,3,3,133,At Risk
+CB-12415,Christy Brittain,93,12,1949.2,4,3,3,433,Potential Loyalist
+LD-17005,Lisa DeCherney,481,7,1961.93,1,1,3,113,Cannot Lose Them
+SW-20275,Scott Williamson,97,7,1966.65,4,2,3,423,Potential Loyalist
+NB-18655,Nona Balk,86,17,1972.6,5,4,3,543,Loyal
+PG-18895,Paul Gonzalez,124,17,1987.16,3,4,3,343,Need Attention
+DB-13615,Doug Bickford,100,11,1989.05,4,3,3,433,Potential Loyalist
+HP-14815,Harold Pawlan,97,10,1990.31,4,2,3,423,Potential Loyalist
+VB-21745,Victoria Brennan,121,10,2005.6,3,2,3,323,Potential Loyalist
+DJ-13420,Denny Joy,704,5,2012.52,1,1,3,113,Cannot Lose Them
+NF-18595,Nicole Fjeld,181,12,2031.47,2,3,3,233,Hibernating customers
+CD-11920,Carlos Daly,107,9,2033.97,4,2,3,423,Potential Loyalist
+AF-10870,Art Ferguson,108,16,2052.91,4,4,3,443,Need Attention
+TS-21430,Tom Stivers,239,7,2054.14,2,1,3,213,About To Sleep
+RB-19705,Roger Barcio,121,7,2067.45,3,1,3,313,Promising
+ML-17755,Max Ludwig,96,13,2071.91,4,3,3,433,Potential Loyalist
+TG-21640,Trudy Glocke,181,10,2074.66,2,2,3,223,Hibernating customers
+RH-19600,Rob Haberlin,601,11,2085.74,1,3,3,133,At Risk
+LC-17050,Liz Carlisle,121,9,2095.06,3,2,3,323,Potential Loyalist
+SH-20635,Stefanie Holloman,832,2,2096.39,1,1,3,113,Cannot Lose Them
+KC-16255,Karen Carlisle,474,10,2120.95,1,3,3,133,At Risk
+DN-13690,Duane Noonan,284,11,2139.79,2,3,3,233,Hibernating customers
+CR-12580,Clay Rozendal,124,6,2148.85,3,1,3,313,Promising
+JD-15790,John Dryer,184,7,2152.35,2,1,3,213,About To Sleep
+NM-18520,Neoma Murray,311,15,2161.98,1,4,3,143,At Risk
+EJ-13720,Ed Jacobs,369,8,2162.17,1,2,3,123,Hibernating customers
+HA-14905,Helen Abelman,136,10,2163.3,3,2,3,323,Potential Loyalist
+TS-21160,Theresa Swint,571,17,2163.62,1,4,3,143,At Risk
+RP-19855,Roy Phan,95,15,2170.72,4,4,3,443,Need Attention
+DB-12910,Daniel Byrd,88,12,2171.6,5,3,3,533,Potential Loyalist
+KN-16450,Kean Nguyen,119,8,2171.96,4,2,3,423,Potential Loyalist
+SH-20395,Shahid Hopkins,90,15,2180.72,5,4,3,543,Loyal
+PS-18760,Pamela Stobb,174,21,2181.48,2,5,3,253,At Risk
+BT-11395,Bill Tyler,369,10,2186.61,1,3,3,133,At Risk
+GW-14605,Giulietta Weimer,95,9,2189.02,4,2,3,423,Potential Loyalist
+TB-21280,Toby Braunhardt,650,11,2198.45,1,3,3,133,At Risk
+EN-13780,Edward Nazzal,354,9,2199.37,1,2,3,123,Hibernating customers
+JR-16210,Justin Ritter,100,10,2201.69,4,2,3,423,Potential Loyalist
+JL-15235,Janet Lee,186,10,2203.7,2,2,3,223,Hibernating customers
+MH-17785,Maya Herman,165,11,2203.78,3,3,3,333,Potential Loyalist
+PF-19225,Phillip Flathmann,181,10,2206.13,2,2,3,223,Hibernating customers
+DP-13105,Dave Poirier,73,14,2215,5,4,3,543,Loyal
+MC-18100,Mick Crebagga,108,19,2218.98,4,5,3,453,Potential Loyalist
+NC-18415,Nathan Cano,108,14,2218.99,4,4,3,443,Need Attention
+GG-14650,Greg Guthrie,110,24,2224,4,5,3,453,Potential Loyalist
+AR-10405,Allen Rosenblatt,192,7,2236.13,2,1,3,213,About To Sleep
+LW-16825,Laurel Workman,155,15,2238.06,3,4,3,343,Need Attention
+JG-15310,Jason Gross,69,11,2240.58,5,3,3,533,Potential Loyalist
+TS-21505,Tony Sayre,78,14,2243.27,5,4,3,543,Loyal
+KD-16615,Ken Dana,356,13,2243.51,1,3,3,133,At Risk
+MY-17380,Maribeth Yedwab,96,13,2254.28,4,3,3,433,Potential Loyalist
+JH-16180,Justin Hirsh,471,5,2256.39,1,1,3,113,Cannot Lose Them
+MC-17605,Matt Connell,179,18,2258.19,2,5,3,253,At Risk
+KM-16225,Kalyca Meade,81,19,2260.96,5,5,3,553,Potential Loyalist
+BE-11410,Bobby Elias,165,5,2261.44,3,1,3,313,Promising
+CC-12670,Craig Carreira,96,14,2269.7,4,4,3,443,Need Attention
+FH-14350,Fred Harton,279,14,2271.28,2,4,3,243,At Risk
+JF-15190,Jamie Frazer,132,19,2279.59,3,5,3,353,Potential Loyalist
+KN-16705,Kristina Nunn,165,15,2280.58,3,4,3,343,Need Attention
+LH-16900,Lena Hernandez,88,15,2295.33,5,4,3,543,Loyal
+MK-17905,Michael Kennedy,95,17,2302.37,4,4,3,443,Need Attention
+CM-12235,Chris McAfee,452,8,2305.71,1,2,3,123,Hibernating customers
+DB-13210,Dean Braden,76,21,2332.58,5,5,3,553,Potential Loyalist
+EM-13825,Elizabeth Moffitt,122,16,2339.6,3,4,3,343,Need Attention
+RF-19735,Roland Fjeld,156,14,2341.3,3,4,3,343,Need Attention
+MG-17680,Maureen Gastineau,159,10,2350.19,3,2,3,323,Potential Loyalist
+CL-12700,Craig Leslie,172,8,2353.59,2,2,3,223,Hibernating customers
+AG-10495,Andrew Gjertsen,145,21,2356.86,3,5,3,353,Potential Loyalist
+JG-15115,Jack Garza,825,7,2358.68,1,1,3,113,Cannot Lose Them
+NR-18550,Nick Radford,277,13,2367.28,2,3,3,233,Hibernating customers
+CV-12805,Cynthia Voltz,72,19,2370.31,5,5,3,553,Potential Loyalist
+JF-15415,Jennifer Ferguson,69,14,2371.45,5,4,3,543,Loyal
+CK-12595,Clytie Kelty,110,25,2372.75,4,5,3,453,Potential Loyalist
+XP-21865,Xylona Preis,110,28,2374.66,4,5,3,453,Potential Loyalist
+DF-13135,David Flashing,767,6,2390.53,1,1,3,113,Cannot Lose Them
+MH-17290,Marc Harrigan,186,13,2394.02,2,3,3,233,Hibernating customers
+TH-21100,Thea Hendricks,411,7,2422.82,1,1,3,113,Cannot Lose Them
+MC-17590,Matt Collister,118,17,2426.07,4,4,3,443,Need Attention
+BP-11095,Bart Pistole,84,20,2442.04,5,5,3,553,Potential Loyalist
+MA-17995,Michelle Arnett,253,12,2453.28,2,3,3,233,Hibernating customers
+GZ-14545,George Zrebassa,224,5,2454.62,2,1,3,213,About To Sleep
+VM-21685,Valerie Mitchum,121,12,2454.87,3,3,3,333,Potential Loyalist
+BS-11590,Brendan Sweed,102,10,2454.93,4,2,3,423,Potential Loyalist
+MH-17455,Mark Hamilton,152,11,2456.18,3,3,3,333,Potential Loyalist
+FM-14215,Filia McAdams,74,15,2456.64,5,4,3,543,Loyal
+NC-18340,Nat Carroll,291,17,2461.4,2,4,3,243,At Risk
+CC-12145,Charles Crestani,173,11,2471.65,2,3,3,233,Hibernating customers
+BP-11290,Beth Paige,79,16,2475.16,5,4,3,543,Loyal
+MN-17935,Michael Nguyen,101,10,2477.95,4,2,3,423,Potential Loyalist
+NZ-18565,Nick Zandusky,152,20,2488.31,3,5,3,353,Potential Loyalist
+PO-18865,Patrick O'Donnell,67,13,2493.21,5,4,3,543,Loyal
+AH-10465,Amy Hunt,297,8,2495.39,1,2,3,123,Hibernating customers
+DJ-13510,Don Jones,115,13,2501.69,4,3,3,433,Potential Loyalist
+JS-16030,Joy Smith,95,18,2516.49,4,5,3,453,Potential Loyalist
+JB-16045,Julia Barnett,74,9,2518.11,5,2,3,523,Promising
+FM-14380,Fred McMath,212,14,2523.27,2,4,3,243,At Risk
+HF-14995,Herbert Flentye,88,19,2533.16,5,5,3,553,Potential Loyalist
+CM-12160,Charles McCrossin,93,7,2533.31,5,2,3,523,Promising
+AC-10615,Ann Chong,73,18,2537.69,5,5,3,553,Potential Loyalist
+CC-12610,Corey Catlett,101,12,2540.63,4,3,3,433,Potential Loyalist
+DE-13255,Deanra Eno,786,9,2550.87,1,2,3,123,Hibernating customers
+BS-11755,Bruce Stewart,68,14,2562.38,5,4,3,543,Loyal
+MZ-17515,Mary Zewe,349,10,2564.91,1,3,3,133,At Risk
+EM-13810,Eleni McCrary,199,7,2567.01,2,1,3,213,About To Sleep
+BT-11305,Beth Thompson,403,9,2567.66,1,2,3,123,Hibernating customers
+NS-18505,Neola Schneider,73,15,2575.86,5,4,3,543,Loyal
+SC-20695,Steve Chapman,156,14,2576.41,3,4,3,343,Need Attention
+LC-16870,Lena Cacioppo,94,30,2580.7,4,5,3,453,Potential Loyalist
+AG-10270,Alejandro Grove,345,14,2582.9,1,4,3,143,At Risk
+HA-14920,Helen Andreada,87,18,2584.16,5,5,3,553,Potential Loyalist
+SU-20665,Stephanie Ulpright,87,18,2595.36,5,5,3,553,Potential Loyalist
+SO-20335,Sean O'Donnell,96,15,2602.58,4,4,3,443,Need Attention
+KN-16390,Katherine Nockton,86,17,2617.27,5,4,3,543,Loyal
+RA-19285,Ralph Arnett,72,17,2617.91,5,4,3,543,Loyal
+LC-17140,Logan Currie,80,19,2633.58,5,5,3,553,Potential Loyalist
+CA-12265,Christina Anderson,123,17,2648.29,3,4,3,343,Need Attention
+DK-13090,Dave Kipp,109,13,2650.56,4,3,3,433,Potential Loyalist
+EJ-14155,Eva Jacobs,124,8,2656.69,3,2,3,323,Potential Loyalist
+RB-19435,Richard Bierner,86,16,2663.09,5,4,3,543,Loyal
+NH-18610,Nicole Hansen,256,11,2673.29,2,3,3,233,Hibernating customers
+FO-14305,Frank Olsen,105,15,2678.44,4,4,3,443,Need Attention
+BO-11350,Bill Overfelt,204,12,2682.73,2,3,3,233,Hibernating customers
+BT-11530,Bradley Talbott,158,10,2684.49,3,2,3,323,Potential Loyalist
+JE-16165,Justin Ellison,87,7,2697.25,5,2,3,523,Promising
+JK-15370,Jay Kimmel,111,17,2709.63,4,4,3,443,Need Attention
+ML-17395,Marina Lichtenstein,136,20,2722.84,3,5,3,353,Potential Loyalist
+JL-15850,John Lucas,681,11,2725.26,1,3,3,133,At Risk
+MC-17275,Marc Crier,143,13,2725.98,3,3,3,333,Potential Loyalist
+LL-16840,Lauren Leatherbury,316,12,2741.2,1,3,3,133,At Risk
+KB-16585,Ken Black,297,23,2744.74,1,5,3,153,At Risk
+MM-18055,Michelle Moray,128,19,2749.88,3,5,3,353,Potential Loyalist
+CS-12250,Chris Selesnick,93,28,2754.22,5,5,3,553,Potential Loyalist
+EB-13870,Emily Burns,167,11,2767.22,3,3,4,334,Need Attention
+PF-19165,Philip Fox,263,10,2770,2,3,4,234,At Risk
+JC-15775,John Castell,225,16,2772.06,2,4,4,244,At Risk
+RD-19660,Robert Dilbeck,181,5,2786.63,2,1,4,214,Cannot Lose Them
+TB-21625,Trudy Brown,97,15,2797.67,4,4,4,444,Loyal
+BG-11035,Barry Gonzalez,95,12,2798.95,4,3,4,434,Need Attention
+GH-14410,Gary Hansen,142,17,2819.47,3,4,4,344,Loyal
+TS-21610,Troy Staebel,122,11,2820.42,3,3,4,334,Need Attention
+CV-12295,Christina VanderZanden,321,13,2830.63,1,3,4,134,At Risk
+JM-16195,Justin MacKendrick,124,19,2833.93,3,5,4,354,Loyal
+DB-12970,Darren Budd,308,14,2839.23,1,4,4,144,Cannot Lose Them
+LS-16945,Linda Southworth,245,14,2845.27,2,4,4,244,At Risk
+EA-14035,Erin Ashbrook,219,25,2846.71,2,5,4,254,At Risk
+AW-10930,Arthur Wiediger,113,16,2852.97,4,4,4,444,Loyal
+CC-12685,Craig Carroll,866,12,2854.12,1,3,4,134,At Risk
+CC-12430,Chuck Clark,67,19,2870.05,5,5,4,554,Champions
+IM-15055,Ionia McGrath,476,4,2872.63,1,1,4,114,Cannot Lose Them
+PV-18985,Paul Van Hugh,156,13,2876.05,3,3,4,334,Need Attention
+DS-13180,David Smith,90,20,2881.81,5,5,4,554,Champions
+BF-11020,Barry Franzosisch,141,21,2888.51,3,5,4,354,Loyal
+MT-17815,Meg Tillman,116,10,2890.14,4,2,4,424,Promising
+ND-18460,Neil Ducich,250,8,2893.45,2,2,4,224,At Risk
+CY-12745,Craig Yedwab,127,11,2900.03,3,3,4,334,Need Attention
+RD-19585,Rob Dowd,247,19,2912.89,2,5,4,254,At Risk
+ML-17410,Maris LaWare,121,15,2921.5,3,4,4,344,Loyal
+SW-20455,Shaun Weien,229,9,2921.54,2,2,4,224,At Risk
+JK-16120,Julie Kriz,184,17,2932.48,2,4,4,244,At Risk
+BC-11125,Becky Castell,269,18,2933.68,2,5,4,254,At Risk
+LT-17110,Liz Thompson,101,14,2936.25,4,4,4,444,Loyal
+TH-21115,Thea Hudgings,125,9,2942.77,3,2,4,324,Need Attention
+CK-12325,Christine Kargatis,187,12,2945.32,2,3,4,234,At Risk
+TM-21010,Tamara Manning,170,19,2955.23,2,5,4,254,At Risk
+NS-18640,Noel Staavos,241,26,2964.82,2,5,4,254,At Risk
+DB-13120,David Bremer,115,14,2973.09,4,4,4,444,Loyal
+FA-14230,Frank Atkinson,164,17,2984.05,3,4,4,344,Loyal
+MH-18025,Michelle Huthwaite,116,10,2984.95,4,2,4,424,Promising
+LS-16975,Lindsay Shagiari,87,22,2988.67,5,5,4,554,Champions
+CS-11950,Carlos Soltero,92,22,3036.55,5,5,4,554,Champions
+CA-12775,Cynthia Arntzen,187,17,3041.57,2,4,4,244,At Risk
+AS-10045,Aaron Smayling,155,10,3050.69,3,2,4,324,Need Attention
+SL-20155,Sara Luxemburg,137,9,3053.01,3,2,4,324,Need Attention
+SS-20410,Shahid Shariari,177,12,3056.81,2,3,4,234,At Risk
+KT-16465,Kean Takahito,458,14,3057.1,1,4,4,144,Cannot Lose Them
+TG-21310,Toby Gnade,404,9,3058.37,1,2,4,124,At Risk
+MG-18145,Mike Gockenbach,151,8,3061.54,3,2,4,324,Need Attention
+EB-14110,Eugene Barchas,180,11,3071.13,2,3,4,234,At Risk
+GM-14455,Gary Mitchum,83,12,3078.62,5,3,4,534,Need Attention
+EH-14125,Eugene Hildebrand,219,18,3082.65,2,5,4,254,At Risk
+PG-18820,Patrick Gardner,103,26,3086.91,4,5,4,454,Champions
+KH-16360,Katherine Hughes,68,14,3100.61,5,4,4,544,Champions
+SG-20605,Speros Goranitis,175,13,3124.83,2,3,4,234,At Risk
+SN-20710,Steve Nguyen,146,19,3127.96,3,5,4,354,Loyal
+TN-21040,Tanja Norvell,157,12,3130.22,3,3,4,334,Need Attention
+RD-19900,Ruben Dartt,181,21,3133.92,2,5,4,254,At Risk
+MS-17770,Maxwell Schwartz,188,19,3144.68,2,5,4,254,At Risk
+KB-16240,Karen Bern,71,10,3152.61,5,2,4,524,Promising
+CK-12205,Chloris Kastensmidt,106,32,3154.86,4,5,4,454,Champions
+JM-15250,Janet Martin,104,19,3159.12,4,5,4,454,Champions
+GM-14680,Greg Matthias,219,11,3163.63,2,3,4,234,At Risk
+JL-15505,Jeremy Lonsdale,116,17,3173.87,4,4,4,444,Loyal
+DG-13300,Deirdre Greer,99,8,3195.82,4,2,4,424,Promising
+BT-11680,Brian Thompson,87,20,3196.75,5,5,4,554,Champions
+CS-12355,Christine Sundaresam,73,22,3202.16,5,5,4,554,Champions
+MP-17470,Mark Packer,786,14,3206.13,1,4,4,144,Cannot Lose Them
+AS-10285,Alejandro Savely,86,8,3214.24,5,2,4,524,Promising
+RS-19420,Ricardo Sperren,143,9,3221.29,3,2,4,324,Need Attention
+LW-16990,Lindsay Williams,100,11,3230.31,4,3,4,434,Need Attention
+SR-20425,Sharelle Roach,75,9,3233.48,5,2,4,524,Promising
+EB-13750,Edward Becker,102,20,3236.31,4,5,4,454,Champions
+CT-11995,Carol Triggs,163,18,3241.9,3,5,4,354,Loyal
+LC-16960,Lindsay Castell,503,7,3246.63,1,1,4,114,Cannot Lose Them
+HG-14965,Henry Goldwyn,90,17,3247.64,5,4,4,544,Champions
+AH-10075,Adam Hart,101,20,3250.34,4,5,4,454,Champions
+JO-15145,Jack O'Briant,124,13,3254.95,3,3,4,334,Need Attention
+AS-10090,Adam Shillingsburg,95,25,3255.31,4,5,4,454,Champions
+DK-12835,Damala Kotsonis,88,27,3256.48,5,5,4,554,Champions
+DL-12925,Daniel Lacy,124,14,3272.2,3,4,4,344,Loyal
+RW-19630,Rob Williams,156,16,3279.75,3,4,4,344,Loyal
+BS-11665,Brian Stugart,649,11,3288.11,1,3,4,134,At Risk
+BD-11605,Brian Dahlen,164,20,3288.47,3,5,4,354,Loyal
+RR-19525,Rick Reed,237,10,3302.26,2,3,4,234,At Risk
+RF-19345,Randy Ferguson,457,16,3309.15,1,4,4,144,Cannot Lose Them
+KH-16330,Katharine Harms,107,18,3312.86,4,5,4,454,Champions
+DK-13375,Dennis Kane,86,23,3318.49,5,5,4,554,Champions
+AP-10915,Arthur Prichep,165,31,3323.56,3,5,4,354,Loyal
+DC-12850,Dan Campbell,104,18,3336.17,4,5,4,454,Champions
+SF-20965,Sylvia Foulston,115,17,3336.53,4,4,4,444,Loyal
+DV-13465,Dianna Vittorini,96,15,3341.59,4,4,4,444,Loyal
+DJ-13630,Doug Jacobs,79,8,3356.4,5,2,4,524,Promising
+VP-21760,Victoria Pisteka,142,14,3360.53,3,4,4,344,Loyal
+SC-20020,Sam Craven,848,17,3362.96,1,4,4,144,Cannot Lose Them
+TS-21655,Trudy Schmidt,305,14,3368.09,1,4,4,144,Cannot Lose Them
+SG-20080,Sandra Glassco,75,11,3406.58,5,3,4,534,Need Attention
+SH-19975,Sally Hughsby,96,29,3406.84,4,5,4,454,Champions
+FC-14245,Frank Carlisle,137,14,3418.74,3,4,4,344,Loyal
+SF-20200,Sarah Foster,126,15,3422.79,3,4,4,344,Loyal
+PW-19030,Pauline Webber,113,13,3454.92,4,3,4,434,Need Attention
+ED-13885,Emily Ducich,202,14,3484.92,2,4,4,244,At Risk
+AG-10675,Anna Gayman,164,15,3489.04,3,4,4,344,Loyal
+RW-19690,Robert Waldorf,146,15,3495.65,3,4,4,344,Loyal
+ES-14020,Erica Smith,107,8,3510.46,4,2,4,424,Promising
+DL-13495,Dionis Lloyd,143,12,3539.32,3,3,4,334,Need Attention
+GM-14440,Gary McGarr,150,11,3582.82,3,3,4,334,Need Attention
+TB-21175,Thomas Boland,125,11,3589.3,3,3,4,334,Need Attention
+RH-19495,Rick Hansen,99,8,3621.38,4,2,4,424,Promising
+SZ-20035,Sam Zeldin,102,20,3625.33,4,5,4,454,Champions
+JP-15520,Jeremy Pistek,75,16,3635.59,5,4,4,544,Champions
+EB-13705,Ed Braxton,115,12,3644.98,4,3,4,434,Need Attention
+CS-12400,Christopher Schild,69,14,3651.86,5,4,4,544,Champions
+LP-17095,Liz Preis,76,15,3653.4,5,4,4,544,Champions
+BP-11185,Ben Peterman,68,18,3675.86,5,4,4,544,Champions
+HG-15025,Hunter Glantz,73,11,3690.28,5,3,4,534,Need Attention
+SC-20260,Scott Cohen,254,18,3729.79,2,5,4,254,At Risk
+FM-14290,Frank Merwin,103,20,3736.2,4,5,4,454,Champions
+JK-16090,Juliana Krohn,95,9,3747.67,4,2,4,424,Promising
+JK-15625,Jim Karlsson,128,12,3760.03,3,3,4,334,Need Attention
+MD-17350,Maribeth Dona,184,17,3766.38,2,4,4,244,At Risk
+MG-17650,Matthew Grinstein,96,14,3785.28,4,4,4,444,Loyal
+CA-11965,Carol Adams,163,10,3789.72,3,2,4,324,Need Attention
+MM-17920,Michael Moore,74,16,3794.08,5,4,4,544,Champions
+MC-17845,Michael Chen,68,14,3805.71,5,4,4,544,Champions
+RO-19780,Rose O'Brian,102,12,3815.48,4,3,4,434,Need Attention
+OT-18730,Olvera Toch,132,10,3818.62,3,2,4,324,Need Attention
+AT-10735,Annie Thurman,80,16,3831.86,5,4,4,544,Champions
+RA-19885,Ruben Ausman,110,15,3832.31,4,4,4,444,Loyal
+JS-15880,John Stevenson,601,9,3868.02,1,2,4,124,At Risk
+BS-11380,Bill Stewart,95,13,3887.83,4,3,4,434,Need Attention
+FC-14335,Fred Chung,251,10,3889.37,2,3,4,234,At Risk
+KC-16540,Kelly Collister,164,5,3908.26,3,1,4,314,Promising
+NP-18670,Nora Paige,125,10,3908.4,3,2,4,324,Need Attention
+DB-13555,Dorothy Badders,174,14,3908.8,2,4,4,244,At Risk
+CC-12220,Chris Cortes,87,22,3913.42,5,5,4,554,Champions
+KH-16630,Ken Heidel,125,17,3918.97,3,4,4,344,Loyal
+GA-14515,George Ashbrook,216,14,3919.78,2,4,4,244,At Risk
+PW-19240,Pierre Wener,531,12,3922.41,1,3,4,134,At Risk
+LF-17185,Luke Foster,89,16,3930.51,5,4,4,544,Champions
+SJ-20125,Sanjit Jacobs,162,24,3949.66,3,5,4,354,Loyal
+SC-20305,Sean Christensen,96,12,3979.06,4,3,4,434,Need Attention
+MP-17965,Michael Paige,139,20,3983.64,3,5,4,354,Loyal
+CM-12715,Craig Molinari,1102,13,3984.45,1,3,4,134,At Risk
+SP-20920,Susan Pistek,137,14,3990.69,3,4,4,344,Loyal
+FP-14320,Frank Preis,90,14,4046.75,5,4,4,544,Champions
+DM-13345,Denise Monton,89,13,4074.47,5,3,4,534,Need Attention
+SV-20785,Stewart Visinsky,387,25,4105.31,1,5,4,154,Cannot Lose Them
+PM-19135,Peter McVee,118,7,4115.66,4,1,4,414,Promising
+MY-18295,Muhammed Yedwab,138,21,4152.7,3,5,4,354,Loyal
+RS-19765,Roland Schwarz,103,14,4159.77,4,4,4,444,Loyal
+GH-14425,Gary Hwang,117,10,4172.85,4,2,4,424,Promising
+JF-15565,Jill Fjeld,121,16,4198.33,3,4,4,344,Loyal
+BE-11335,Bill Eplett,186,9,4204.68,2,2,4,224,At Risk
+TH-21550,Tracy Hopkins,139,13,4234.1,3,3,4,334,Need Attention
+CB-12535,Claudia Bergmann,264,19,4246.46,2,5,4,254,At Risk
+FH-14275,Frank Hawley,104,21,4256.27,4,5,4,454,Champions
+AS-10225,Alan Schoenberger,89,13,4260.78,5,3,4,534,Need Attention
+TC-21295,Toby Carlisle,94,16,4266.81,4,4,4,444,Loyal
+RD-19480,Rick Duston,139,15,4272.93,3,4,4,344,Loyal
+DK-12895,Dana Kaydos,112,15,4282.18,4,4,4,444,Loyal
+SP-20860,Sung Pak,146,24,4282.94,3,5,4,354,Loyal
+MA-17560,Matt Abelman,131,34,4299.16,3,5,5,355,Loyal
+ND-18370,Natalie DeCherney,94,18,4326.14,4,5,5,455,Champions
+SR-20740,Steven Roelle,263,12,4345.89,2,3,5,235,At Risk
+GZ-14470,Gary Zandusky,74,14,4355.15,5,4,5,545,Champions
+EB-13840,Ellis Ballard,157,8,4358.13,3,2,5,325,Need Attention
+SC-20230,Scot Coram,216,11,4371.96,2,3,5,235,At Risk
+AI-10855,Arianne Irving,80,18,4375.79,5,5,5,555,Champions
+BD-11500,Bradley Drucker,102,10,4411.24,4,2,5,425,Promising
+KW-16435,Katrina Willman,163,10,4416.52,3,2,5,325,Need Attention
+JK-15205,Jamie Kunitz,128,13,4427.14,3,3,5,335,Loyal
+MC-17425,Mark Cousins,466,10,4432.14,1,3,5,135,At Risk
+TP-21130,Theone Pippenger,75,16,4454.06,5,4,5,545,Champions
+SC-20770,Stewart Carmichael,108,21,4492.66,4,5,5,455,Champions
+LC-16930,Linda Cazamias,108,14,4492.95,4,4,5,445,Champions
+AJ-10795,Anthony Johnson,233,21,4501.39,2,5,5,255,At Risk
+AG-10900,Arthur Gainer,163,21,4510.8,3,5,5,355,Loyal
+AR-10825,Anthony Rawles,125,13,4523.34,3,3,5,335,Loyal
+DB-13060,Dave Brooks,83,13,4531.65,5,3,5,535,Need Attention
+EM-14140,Eugene Moren,115,21,4588.44,4,5,5,455,Champions
+SC-20050,Sample Company A,107,15,4624.57,4,4,5,445,Champions
+KT-16480,Kean Thornton,167,13,4642.09,3,3,5,335,Loyal
+DB-13270,Deborah Brumfield,120,13,4655.9,3,3,5,335,Loyal
+ES-14080,Erin Smith,95,20,4657.92,4,5,5,455,Champions
+RB-19465,Rick Bensley,76,23,4715.47,5,5,5,555,Champions
+GB-14575,Giulietta Baptist,80,16,4716.29,5,4,5,545,Champions
+TB-21520,Tracy Blumstein,174,20,4737.49,2,5,5,255,At Risk
+BW-11110,Bart Watters,188,17,4750.36,2,4,5,245,At Risk
+JK-15640,Jim Kriz,247,12,4760.43,2,3,5,235,At Risk
+SA-20830,Sue Ann Reed,130,21,4767.34,3,5,5,355,Loyal
+RA-19915,Russell Applegate,79,22,4793.54,5,5,5,555,Champions
+DK-13225,Dean Katz,77,19,4802.39,5,5,5,555,Champions
+AH-10210,Alan Hwang,73,13,4805.34,5,4,5,545,Champions
+JK-15730,Joe Kamberova,151,20,4867.2,3,5,5,355,Loyal
+AJ-10780,Anthony Jacobs,142,15,4867.34,3,4,5,345,Loyal
+HK-14890,Heather Kirkland,218,15,4877.78,2,4,5,245,At Risk
+PO-19180,Philisse Overcash,227,18,4893.04,2,5,5,255,At Risk
+KM-16720,Kunst Miller,95,28,4909.47,4,5,5,455,Champions
+TT-21070,Ted Trevino,98,14,4915.6,4,4,5,445,Champions
+IM-15070,Irene Maddox,457,21,4930.47,1,5,5,155,Cannot Lose Them
+DH-13075,Dave Hallsten,344,23,4932.87,1,5,5,155,Cannot Lose Them
+LB-16795,Laurel Beltran,219,24,4985.68,2,5,5,255,At Risk
+KL-16555,Kelly Lampkin,83,22,5016.49,5,5,5,555,Champions
+IL-15100,Ivan Liston,209,14,5040.74,2,4,5,245,At Risk
+AA-10645,Anna Andreadi,122,18,5086.94,3,5,5,355,Loyal
+MP-18175,Mike Pelletier,83,19,5087.92,5,5,5,555,Champions
+LR-16915,Lena Radford,93,16,5142.89,4,4,5,445,Champions
+RP-19390,Resi Polking,100,25,5153.08,4,5,5,455,Champions
+SC-20725,Steven Cartwright,254,26,5226.21,2,5,5,255,At Risk
+HR-14830,Harold Ryan,226,14,5248.79,2,4,5,245,At Risk
+MW-18235,Mitch Willingham,111,3,5253.88,4,1,5,415,Promising
+DW-13480,Dianna Wilson,284,11,5271.63,2,3,5,235,At Risk
+TW-21025,Tamara Willingham,131,12,5278.83,3,3,5,335,Loyal
+TP-21415,Tom Prescott,171,10,5329,2,2,5,225,At Risk
+MW-18220,Mitch Webber,84,14,5341.9,5,4,5,545,Champions
+TT-21460,Tonja Turnell,79,14,5364.81,5,4,5,545,Champions
+TS-21205,Thomas Seio,265,19,5371.09,2,5,5,255,At Risk
+CP-12085,Cathy Prescott,149,14,5402.25,3,4,5,345,Loyal
+LW-17215,Luke Weiss,88,15,5420.51,5,4,5,545,Champions
+SP-20620,Stefania Perrino,114,24,5440.32,4,5,5,455,Champions
+YC-21895,Yoseph Carroll,71,8,5454.35,5,2,5,525,Promising
+EP-13915,Emily Phan,79,31,5478.06,5,5,5,555,Champions
+DP-13390,Dennis Pardue,425,14,5480.72,1,4,5,145,At Risk
+MH-18115,Mick Hernandez,72,22,5503.09,5,5,5,555,Champions
+AC-10450,Amy Cox,78,9,5527.85,5,2,5,525,Promising
+NP-18325,Naresj Patel,92,21,5529.62,5,5,5,555,Champions
+SM-20950,Suzanne McNair,92,22,5563.39,5,5,5,555,Champions
+AA-10315,Alex Avila,251,11,5563.56,2,3,5,235,At Risk
+KM-16375,Katherine Murray,123,20,5620.19,3,5,5,355,Loyal
+RB-19795,Ross Baird,99,18,5633.32,4,5,5,455,Champions
+AM-10705,Anne McFarland,229,22,5664.02,2,5,5,255,At Risk
+CS-12505,Cindy Stewart,125,9,5690.05,3,2,5,325,Need Attention
+BD-11320,Bill Donatelli,100,19,5718.52,4,5,5,455,Champions
+CP-12340,Christine Phan,227,15,5888.28,2,4,5,245,At Risk
+BF-11170,Ben Ferrer,83,27,5907.97,5,5,5,555,Champions
+KH-16510,Keith Herrera,89,23,5952.86,5,5,5,555,Champions
+RM-19675,Robert Marley,73,11,5979.1,5,3,5,535,Need Attention
+KH-16690,Kristen Hastings,69,15,5990.8,5,4,5,545,Champions
+SC-20380,Shahid Collister,97,20,5992.54,4,5,5,455,Champions
+GM-14695,Greg Maxwell,184,11,6049.97,2,3,5,235,At Risk
+CB-12025,Cassandra Brandow,114,26,6076.14,4,5,5,455,Champions
+AD-10180,Alan Dominguez,96,12,6106.88,4,3,5,435,Loyal
+QJ-19255,Quincy Jones,92,13,6108.34,5,3,5,535,Need Attention
+SD-20485,Shirley Daniels,267,21,6121.11,2,5,5,255,At Risk
+VW-21775,Victoria Wilson,95,18,6134.04,4,5,5,455,Champions
+WB-21850,William Brown,87,37,6160.1,5,5,5,555,Champions
+RL-19615,Rob Lucas,188,24,6234.91,2,5,5,255,At Risk
+BH-11710,Brosina Hoffman,90,24,6255.35,5,5,5,555,Champions
+MJ-17740,Max Jones,89,15,6320.75,5,4,5,545,Champions
+CM-12655,Corinna Mitchell,94,10,6339.56,4,2,5,425,Promising
+DM-13015,Darrin Martin,124,20,6345.1,3,5,5,355,Loyal
+JG-15160,James Galang,68,18,6366.39,5,4,5,545,Champions
+SB-20185,Sarah Brown,255,12,6411,2,3,5,235,At Risk
+VD-21670,Valerie Dominguez,648,16,6442.25,1,4,5,145,At Risk
+NM-18445,Nathan Mautz,227,14,6459.34,2,4,5,245,At Risk
+JA-15970,Joseph Airdo,159,24,6491.03,3,5,5,355,Loyal
+GK-14620,Grace Kelly,179,14,6497.27,2,4,5,245,At Risk
+DR-12880,Dan Reichenbach,70,24,6528.03,5,5,5,555,Champions
+AR-10540,Andy Reiter,73,9,6608.45,5,2,5,525,Promising
+YS-21880,Yana Sorensen,76,12,6720.44,5,3,5,535,Need Attention
+JE-15745,Joel Eaton,118,23,6760.81,4,5,5,455,Champions
+BB-11545,Brenda Bowman,95,20,6765.73,4,5,5,455,Champions
+PS-19045,Penelope Sewall,303,13,6843.63,1,3,5,135,At Risk
+RH-19510,Rick Huthwaite,534,12,6979.18,1,3,5,135,At Risk
+FH-14365,Fred Hopkins,72,13,6987.2,5,4,5,545,Champions
+Dp-13240,Dean percer,151,29,7198.76,3,5,5,355,Loyal
+NW-18400,Natalie Webber,239,22,7234.01,2,5,5,255,At Risk
+PP-18955,Paul Prost,164,34,7252.61,3,5,5,355,Loyal
+BM-11650,Brian Moss,100,29,7294.19,4,5,5,455,Champions
+RW-19540,Rick Wilson,187,23,7397.4,2,5,5,255,At Risk
+MS-17365,Maribeth Schnelling,340,24,7443.69,1,5,5,155,Cannot Lose Them
+PO-18850,Patrick O'Brill,71,22,7473.83,5,5,5,555,Champions
+JD-15895,Jonathan Doherty,461,32,7610.86,1,5,5,155,Cannot Lose Them
+JM-15865,John Murray,176,13,7625.08,2,3,5,235,At Risk
+LC-16885,Lena Creighton,83,23,7663.13,5,5,5,555,Champions
+JW-15220,Jane Waco,109,14,7721.71,4,4,5,445,Champions
+JE-15610,Jim Epp,115,20,7754.98,4,5,5,455,Champions
+AB-10060,Adam Bellavance,121,18,7755.62,3,5,5,355,Loyal
+AH-10690,Anna Haberlin,477,23,7888.29,1,5,5,155,Cannot Lose Them
+NP-18700,Nora Preis,205,13,7903.18,2,3,5,235,At Risk
+JH-15985,Joseph Holt,96,14,7955,4,4,5,445,Champions
+ZC-21910,Zuschuss Carroll,121,31,8025.71,3,5,5,355,Loyal
+SB-20290,Sean Braxton,114,17,8057.89,4,4,5,445,Champions
+KD-16495,Keith Dawkins,179,28,8181.26,2,5,5,255,At Risk
+HM-14860,Harry Marie,69,20,8236.76,5,5,5,555,Champions
+NC-18535,Nick Crebassa,73,15,8241.74,5,4,5,545,Champions
+KD-16270,Karen Daniels,551,16,8282.36,1,4,5,145,At Risk
+NF-18385,Natalie Fritzler,146,14,8322.83,3,4,5,345,Loyal
+DR-12940,Daniel Raglin,117,13,8350.87,4,3,5,435,Loyal
+PK-19075,Pete Kriz,76,25,8646.93,5,5,5,555,Champions
+LA-16780,Laura Armstrong,221,26,8673.22,2,5,5,255,At Risk
+JE-15715,Joe Elijah,113,22,8697.84,4,5,5,455,Champions
+JD-16150,Justin Deggeller,108,17,8828.03,4,4,5,445,Champions
+CM-12385,Christopher Martinez,104,10,8954.02,4,2,5,425,Promising
+PF-19120,Peter Fuller,902,19,9062.86,1,5,5,155,Cannot Lose Them
+TB-21400,Tom Boeckenhauer,269,17,9133.99,2,4,5,245,At Risk
+HW-14935,Helen Wasserman,184,20,9300.25,2,5,5,255,At Risk
+GT-14635,Grant Thornton,123,6,9351.21,3,1,5,315,Promising
+JL-15835,John Lee,88,34,9799.92,5,5,5,555,Champions
+EH-13765,Edward Hooks,202,32,10310.88,2,5,5,255,At Risk
+BS-11365,Bill Shonely,625,9,10501.65,1,2,5,125,At Risk
+KF-16285,Karen Ferguson,164,18,10604.27,3,5,5,355,Loyal
+ME-17320,Maria Etezadi,109,22,10663.73,4,5,5,455,Champions
+CL-12565,Clay Ludtke,351,28,10880.55,1,5,5,155,Cannot Lose Them
+CJ-12010,Caroline Jumper,256,20,11164.97,2,5,5,255,At Risk
+SV-20365,Seth Vernon,168,32,11470.95,3,5,5,355,Loyal
+BM-11140,Becky Martin,374,16,11789.63,1,4,5,145,At Risk
+GT-14710,Greg Tran,103,29,11820.12,4,5,5,455,Champions
+TS-21370,Todd Sumrall,103,15,11891.75,4,4,5,445,Champions
+CC-12370,Christopher Conant,110,11,12129.07,4,3,5,435,Loyal
+SE-20110,Sanjit Engle,76,19,12209.44,5,5,5,555,Champions
+HL-15040,Hunter Lopez,110,11,12873.3,4,3,5,435,Loyal
+SC-20095,Sanjit Chand,416,22,14142.33,1,5,5,155,Cannot Lose Them
+KL-16645,Ken Lonsdale,114,29,14175.23,4,5,5,455,Champions
+AB-10105,Adrian Barton,108,20,14473.57,4,5,5,455,Champions
+TA-21385,Tom Ashbrook,136,10,14595.62,3,2,5,325,Need Attention
+RB-19360,Raymond Buch,163,18,15117.34,3,5,5,355,Loyal
+TC-20980,Tamara Chand,466,12,19052.22,1,3,5,135,At Risk
+SM-20320,Sean Miller,146,15,25043.05,3,4,5,345,Loyal
